@@ -118,7 +118,6 @@ matplotlib==3.6.3
 matplotlib-inline==0.1.6
 mdit-py-plugins==0.3.3
 mdurl==0.1.2
-merge-stardist-masks==0.1.3
 mistune==2.0.4
 mkl-fft==1.3.1
 mkl-random
@@ -132,11 +131,7 @@ napari-console==0.0.7
 napari-feature-classifier==0.0.1
 napari-labelimg4classification==0.1.1
 napari-labeling==0.1.2
-napari-labelling-assistant==0.0.5
-napari-labels-overlap==0.0.3
-napari-merge-stardist-masks==0.0.4
 napari-plugin-engine==0.2.0
-napari-pyclesperanto-assistant==0.22.0
 napari-roi==0.1.7
 napari-skimage-regionprops==0.8.1
 napari-svetlana==0.2.5
@@ -188,7 +183,6 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pyclesperanto-prototype==0.22.0
 pycodestyle==2.10.0
 pycparser==2.21
 pydantic==1.10.4
@@ -236,8 +230,6 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
 stack-data==0.6.2
-stardist==0.8.3
-stardist-napari==2022.12.6
 statsmodels==0.13.5
 superqt==0.4.1
 tensorboard==2.11.2
