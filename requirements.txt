@@ -110,7 +110,7 @@ lxml==4.9.2
 macro-kit==0.4.1
 magic-class==0.6.15
 magicgui==0.6.1
-Mako @ file:///croot/mako_1665472421453/work
+Mako
 Markdown==3.4.1
 markdown-it-py==2.1.0
 MarkupSafe
